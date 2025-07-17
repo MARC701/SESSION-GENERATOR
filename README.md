@@ -20,7 +20,7 @@
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/MARC701/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Wasi-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/MARC701/SESSION-GENERATOR/fork"><img title="WEB" src="https://img.shields.io/badge/FORK MAFIA-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
@@ -29,5 +29,5 @@ Now Deploy
 [`HERE'S AN EXAMPLE OUTPUT`](https://wasi-session-test-2d5de70f8522.herokuapp.com)
 # `Owner`
 
- <a href="https://github.com/MARC701"><img src="https://telegra.ph/file/da95ed969f943e4d61ca8.jpg" width="250" height="250" alt="Itxx Me Arslan Chaudary"/></a>
+ <a href="https://github.com/MARC701"><img src="https://github.com/MARC701.png" width="250" height="250" alt="Itxx Me Arslan Chaudary"/></a>
 
