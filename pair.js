@@ -67,11 +67,11 @@ ______________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _Sorry i Can't Provide You YT right Now But working on it_ 
-║❒ *Owner:* _https://wa.me/923111977378_
-║❒ *Repo:* _https://github.com/MARC701/KEITH-MD.git_
-║❒ *WaGroup:* _https://chat.whatsapp.com/EJqkKUz9DP8BF3TyW542oz_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u_
-║❒ *Tiktok:* _https://www.tiktok.com/@arslan_chaudary_22?_t=ZS-8y6hTBI50NT&_r=1_
+║❒ *Owner:* _https://wa.me/923111977378
+║❒ *Repo:* _https://github.com/MARC701/KEITH-MD.git
+║❒ *WaGroup:* _https://chat.whatsapp.com/EJqkKUz9DP8BF3TyW542oz
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u
+║❒ *Tiktok:* _https://www.tiktok.com/@arslan_chaudary_22?_t=ZS-8y6hTBI50NT&_r=1
 ╚════════════════════════╝
 _____________________________________
 
