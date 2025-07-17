@@ -59,21 +59,21 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By Wasi Tech_*
+*_Session Connected By MAFIA Tech_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN WASI MD』*
+║ *『AMAZING YOU'VE CHOSEN MAFIA MD』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/FF6YuOZTAVB6Lu65cnY5BN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j_
-║❒ *Plugins:* _https://github.com/Itxxwasi 
+║❒ *Ytube:* _No YT Channel Right Now_
+║❒ *Owner:* _https://wa.me/923111977378
+║❒ *Repo:* _https://github.com/MARC701/KEITH-MD.git
+║❒ *WaGroup:* _https://chat.whatsapp.com/EJqkKUz9DP8BF3TyW542oz
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u
+║❒ *Tiktok:* _https://www.tiktok.com/@arslan_chaudary_22?_t=ZS-8y6hTBI50NT&_r=1
 ╚════════════════════════╝
 _____________________________________
 	
