@@ -57,21 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
+*_Pair Code Connected by MAFIA TECH*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
+║ *『 WOW YOU'VE CHOSEN MAFIA MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *Ytube:* _Sorry i Can't Provide You YT right Now But working on it_ 
+║❒ *Owner:* _https://wa.me/923111977378_
+║❒ *Repo:* _https://github.com/MARC701/KEITH-MD.git_
+║❒ *WaGroup:* _https://chat.whatsapp.com/EJqkKUz9DP8BF3TyW542oz_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vat4TFC0QeaoLURbP61u_
+║❒ *Tiktok:* _https://www.tiktok.com/@arslan_chaudary_22?_t=ZS-8y6hTBI50NT&_r=1_
 ╚════════════════════════╝
 _____________________________________
 
